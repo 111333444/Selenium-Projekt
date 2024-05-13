@@ -1,0 +1,61 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"55d85db8-5d4f-4b5b-bbec-0afc2dc2f5ac\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/src/Main/BasvuruFormu.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Main/emr.java\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2UnTViz4fwqKEtuAy6PkmDvXfhD\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Downloaded.Files.Path.Enabled\": \"false\",\n    \"Repository.Attach.Annotations\": \"false\",\n    \"Repository.Attach.JavaDocs\": \"false\",\n    \"Repository.Attach.Sources\": \"false\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"git-widget-placeholder\": \"emrullah\",\n    \"last_opened_file_path\": \"/Users/emr/Documents/java-dersleri/Selenium/Test-project-3\",\n    \"project.structure.last.edited\": \"Libraries\",\n    \"project.structure.proportion\": \"0.15\",\n    \"project.structure.side.proportion\": \"0.3137931\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/Main/XML\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"TestNG./Users/emr/Documents/java-dersleri/Selenium/Test-project-3/src/Main/XML/BasvuruFormu.xml\">\n    <configuration name=\"BasvuruFormu.basvuruFormu\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"Test-project-3\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"Main.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"Main\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main.BasvuruFormu\" />\n      <option name=\"METHOD_NAME\" value=\"basvuruFormu\" />\n      <option name=\"TEST_OBJECT\" value=\"METHOD\" />\n      <properties />\n      <listeners />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"BasvuruFormu.test\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"Test-project-3\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"Main.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"Main\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main.BasvuruFormu\" />\n      <option name=\"METHOD_NAME\" value=\"test\" />\n      <option name=\"TEST_OBJECT\" value=\"METHOD\" />\n      <properties />\n      <listeners />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"/Users/emr/Documents/java-dersleri/Selenium/Test-project-3/src/Main/XML/BasvuruFormu.xml\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"Test-project-3\" />\n      <option name=\"SUITE_NAME\" value=\"$PROJECT_DIR$/src/Main/XML/BasvuruFormu.xml\" />\n      <option name=\"TEST_OBJECT\" value=\"SUITE\" />\n      <properties />\n      <listeners />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"/Users/emr/Documents/java-dersleri/Selenium/Test-project-3/testng.xml\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"Test-project-3\" />\n      <option name=\"SUITE_NAME\" value=\"$PROJECT_DIR$/testng.xml\" />\n      <option name=\"TEST_OBJECT\" value=\"SUITE\" />\n      <properties />\n      <listeners />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"TestNG./Users/emr/Documents/java-dersleri/Selenium/Test-project-3/src/Main/XML/BasvuruFormu.xml\" />\n        <item itemvalue=\"TestNG.BasvuruFormu.basvuruFormu\" />\n        <item itemvalue=\"TestNG./Users/emr/Documents/java-dersleri/Selenium/Test-project-3/testng.xml\" />\n        <item itemvalue=\"TestNG.BasvuruFormu.test\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"55d85db8-5d4f-4b5b-bbec-0afc2dc2f5ac\" name=\"Changes\" comment=\"\" />\n      <created>1693574369430</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1693574369430</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"emrullah\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 04ecfa8cb564140808e5f4c5f61742a672abb0eb)
++++ b/.idea/workspace.xml	(date 1693984455293)
+@@ -4,11 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="55d85db8-5d4f-4b5b-bbec-0afc2dc2f5ac" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/Main/BasvuruFormu.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Main/emr.java" beforeDir="false" />
+-    </list>
++    <list default="true" id="55d85db8-5d4f-4b5b-bbec-0afc2dc2f5ac" name="Changes" comment="updated" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -35,22 +31,22 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Downloaded.Files.Path.Enabled": "false",
+-    "Repository.Attach.Annotations": "false",
+-    "Repository.Attach.JavaDocs": "false",
+-    "Repository.Attach.Sources": "false",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "emrullah",
+-    "last_opened_file_path": "/Users/emr/Documents/java-dersleri/Selenium/Test-project-3",
+-    "project.structure.last.edited": "Libraries",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.3137931"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;emrullah&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/emr/Documents/java-dersleri/Selenium/Test-project-3&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.3137931&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/src/Main/XML" />
